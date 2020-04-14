@@ -1,5 +1,5 @@
 # Clever Notes
-An easy way to take notes while browsing
+An easy way to take notes while browsing without going from browser to Notepad everytime !
 
 ## Required
 ```
